@@ -1,0 +1,9 @@
+.defaultButton {
+    background-color: #d5d5d5;
+    opacity: 0.8;
+    transition: 0.3s;
+
+    &:hover {
+        opacity: 1;
+    }
+}

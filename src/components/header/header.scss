@@ -1,0 +1,10 @@
+.headerContainer {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 20px;
+
+    .headerTitle {
+        font-family: 'Nothing You Could Do', cursive;
+    }
+}
